@@ -1,0 +1,745 @@
+"Sample","Site","Treatment","Pathway_ID","Description","Strategy","Abundance","RelAbund"
+"T.R.T1.1","YC","AMF","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",53487.49579391,0.01815584203084
+"T.R.T1.1","YC","AMF","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",568.1649799,0.000192858414278096
+"T.R.T1.1","YC","AMF","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",108565.39632751,0.0368515324279256
+"T.R.T1.1","YC","AMF","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",25746.51101066,0.00873941806054882
+"T.R.T1.1","YC","AMF","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",104715.6241341,0.0355447624107316
+"T.R.T1.1","YC","AMF","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",167993.53430281,0.0570238712007826
+"T.R.T1.1","YC","AMF","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",178705.30299411,0.0606598832694628
+"T.R.T1.1","YC","AMF","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",82578.45387342,0.0280305021093833
+"T.R.T1.1","YC","AMF","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",68137.81736786,0.0231287599109837
+"T.R.T1.1","YC","AMF","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",114748.26664181,0.0389502512977738
+"T.R.T1.1","YC","AMF","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",75499.02740614,0.0256274554402304
+"T.R.T1.1","YC","AMF","ko03010","Genetic Information Processing; Translation; Ribosome","Y",282231.39060003,0.0958008683678528
+"T.R.T1.1","YC","AMF","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",71532.00712174,0.0242808866291905
+"T.R.T1.1","YC","AMF","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",109498.69142771,0.0371683309273857
+"T.R.T1.1","YC","AMF","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",36.90107178,1.25257318568025e-05
+"T.R.T1.1","YC","AMF","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",87233.75375395,0.0296107011443643
+"T.R.T1.1","YC","AMF","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",116897.21724805,0.0396796929581069
+"T.R.T1.1","YC","AMF","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6007.75748104,0.00203927841762558
+"T.R.T1.1","YC","AMF","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",188582.91946712,0.0640127499846327
+"T.R.T1.1","YC","AMF","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",43381.43071031,0.0147254305208639
+"T.R.T1.1","YC","AMF","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",63069.75232315,0.0214084515101508
+"T.R.T1.1","YC","AMF","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",37001.83448725,0.0125599348376726
+"T.R.T1.1","YC","AMF","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",65770.00385545,0.0223250272356787
+"T.R.T1.1","YC","AMF","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",136420.2965452,0.0463066239522286
+"T.R.T1.1","YC","AMF","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",75396.16820136,0.0255925408224177
+"T.R.T1.1","YC","AMF","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",3671.65593802,0.00124631008075493
+"T.R.T1.1","YC","AMF","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",901.2256301,0.000305912810674207
+"T.R.T1.1","YC","AMF","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",110316.69293177,0.0374459940684295
+"T.R.T1.1","YC","AMF","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",71578.13845532,0.02429654548913
+"T.R.T1.1","YC","AMF","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",399896.50560141,0.135741217206336
+"T.R.T1.1","YC","AMF","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",95851.27703427,0.0325358407317067
+"T.R.T1.2","YC","AMF","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",54214.88525574,0.0183941407111547
+"T.R.T1.2","YC","AMF","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",543.97153882,0.00018455981195421
+"T.R.T1.2","YC","AMF","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",107300.80120066,0.0364052423314059
+"T.R.T1.2","YC","AMF","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",31472.63630024,0.0106781024791769
+"T.R.T1.2","YC","AMF","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",103944.40599944,0.0352664774825594
+"T.R.T1.2","YC","AMF","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",156907.7453164,0.0532359910457307
+"T.R.T1.2","YC","AMF","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",171644.4434152,0.0582358890842207
+"T.R.T1.2","YC","AMF","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",88896.42695116,0.0301609673864504
+"T.R.T1.2","YC","AMF","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",66296.73440198,0.0224932959929296
+"T.R.T1.2","YC","AMF","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",109843.39286511,0.0372678981984485
+"T.R.T1.2","YC","AMF","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",71356.2541871,0.0242099005457081
+"T.R.T1.2","YC","AMF","ko03010","Genetic Information Processing; Translation; Ribosome","Y",273015.17185214,0.0926291638106282
+"T.R.T1.2","YC","AMF","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",63265.8131068,0.0214649586179635
+"T.R.T1.2","YC","AMF","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",112392.75363318,0.038132850701256
+"T.R.T1.2","YC","AMF","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",173.97504546,5.90266206656219e-05
+"T.R.T1.2","YC","AMF","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",88576.50802074,0.0300524246164243
+"T.R.T1.2","YC","AMF","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",106892.89746632,0.0362668478913797
+"T.R.T1.2","YC","AMF","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6913.53016419,0.00234563710779891
+"T.R.T1.2","YC","AMF","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",173768.7506082,0.0589566285128377
+"T.R.T1.2","YC","AMF","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",49455.49903732,0.0167793661084347
+"T.R.T1.2","YC","AMF","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",67604.19780749,0.0229368949370607
+"T.R.T1.2","YC","AMF","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",37347.74738519,0.0126714225697842
+"T.R.T1.2","YC","AMF","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",74322.73341663,0.0252163738806104
+"T.R.T1.2","YC","AMF","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",146568.13413801,0.0497279459393584
+"T.R.T1.2","YC","AMF","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",73422.62343403,0.0249109826656819
+"T.R.T1.2","YC","AMF","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",7796.75360595,0.0026452990215056
+"T.R.T1.2","YC","AMF","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",609.81760827,0.000206900205390928
+"T.R.T1.2","YC","AMF","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",111910.00174014,0.0379690616199499
+"T.R.T1.2","YC","AMF","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",70151.05737047,0.0238009988257256
+"T.R.T1.2","YC","AMF","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",425898.11166557,0.144499610349395
+"T.R.T1.2","YC","AMF","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",94891.94948735,0.0321951409284096
+"T.R.T1.3","YC","AMF","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",55417.50242906,0.0183115045481329
+"T.R.T1.3","YC","AMF","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",638.05145515,0.000210830181996714
+"T.R.T1.3","YC","AMF","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",109658.85808403,0.036234377056585
+"T.R.T1.3","YC","AMF","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",34881.01268705,0.0115256695893148
+"T.R.T1.3","YC","AMF","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",106672.325424,0.0352475425008904
+"T.R.T1.3","YC","AMF","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",164956.0275099,0.0545061201893054
+"T.R.T1.3","YC","AMF","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",178542.51516898,0.0589954785987875
+"T.R.T1.3","YC","AMF","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",90141.04799381,0.029785142562588
+"T.R.T1.3","YC","AMF","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",68354.7106084,0.0225863227198717
+"T.R.T1.3","YC","AMF","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",112905.02989986,0.0373070037063638
+"T.R.T1.3","YC","AMF","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",72820.84679925,0.0240620599795221
+"T.R.T1.3","YC","AMF","ko03010","Genetic Information Processing; Translation; Ribosome","Y",286411.21451151,0.0946383367579119
+"T.R.T1.3","YC","AMF","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",67573.44451936,0.0223281703868417
+"T.R.T1.3","YC","AMF","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",113153.32886169,0.0373890486807772
+"T.R.T1.3","YC","AMF","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",58.68813647,1.9392214206469e-05
+"T.R.T1.3","YC","AMF","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",88481.50638014,0.0292367832451425
+"T.R.T1.3","YC","AMF","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",111915.87157735,0.0369801579206907
+"T.R.T1.3","YC","AMF","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6459.75736251,0.00213448587790215
+"T.R.T1.3","YC","AMF","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",181263.55338707,0.0598945863088468
+"T.R.T1.3","YC","AMF","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",48168.96795741,0.0159163844844883
+"T.R.T1.3","YC","AMF","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",66580.56621484,0.0220000954142781
+"T.R.T1.3","YC","AMF","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",39090.93696498,0.0129167472125133
+"T.R.T1.3","YC","AMF","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",75551.31526638,0.0249642837096224
+"T.R.T1.3","YC","AMF","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",148659.41658436,0.0491212606773817
+"T.R.T1.3","YC","AMF","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",74947.90117397,0.024764898688406
+"T.R.T1.3","YC","AMF","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",6530.59062162,0.00215789118289604
+"T.R.T1.3","YC","AMF","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",845.9700708,0.000279532352055536
+"T.R.T1.3","YC","AMF","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",114513.51678334,0.0378384931021582
+"T.R.T1.3","YC","AMF","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",71258.71585753,0.0235458878932629
+"T.R.T1.3","YC","AMF","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",432280.00566906,0.142837496150405
+"T.R.T1.3","YC","AMF","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",97643.0520099,0.0322640161068549
+"T.R.T1.4","YC","AMF","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",54077.43076975,0.0176325387667978
+"T.R.T1.4","YC","AMF","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",564.46879096,0.000184051233528965
+"T.R.T1.4","YC","AMF","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",107101.85670533,0.0349217337708496
+"T.R.T1.4","YC","AMF","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",40130.14278676,0.0130848727155229
+"T.R.T1.4","YC","AMF","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",110393.49639007,0.0359950089527758
+"T.R.T1.4","YC","AMF","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",168454.41467906,0.054926407467721
+"T.R.T1.4","YC","AMF","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",186084.62579951,0.0606749309575252
+"T.R.T1.4","YC","AMF","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",90169.76762185,0.0294008406197211
+"T.R.T1.4","YC","AMF","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",66790.15710308,0.0217776624665266
+"T.R.T1.4","YC","AMF","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",115099.88436511,0.0375295783145271
+"T.R.T1.4","YC","AMF","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",79433.69583349,0.0259002267903142
+"T.R.T1.4","YC","AMF","ko03010","Genetic Information Processing; Translation; Ribosome","Y",282464.98365625,0.0921008025656388
+"T.R.T1.4","YC","AMF","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",70682.57051834,0.0230468265052769
+"T.R.T1.4","YC","AMF","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",112339.80175578,0.0366296231406988
+"T.R.T1.4","YC","AMF","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",70.00449526,2.28257326384031e-05
+"T.R.T1.4","YC","AMF","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",88200.05630241,0.0287585946641523
+"T.R.T1.4","YC","AMF","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",116673.73580292,0.0380427498187083
+"T.R.T1.4","YC","AMF","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6309.33945568,0.00205722925371292
+"T.R.T1.4","YC","AMF","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",187147.50201516,0.0610214933923522
+"T.R.T1.4","YC","AMF","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",47378.13645328,0.0154481604584366
+"T.R.T1.4","YC","AMF","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",64462.50835073,0.021018707089448
+"T.R.T1.4","YC","AMF","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",42586.50480027,0.0138857964615661
+"T.R.T1.4","YC","AMF","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",75476.96473488,0.0246100912662526
+"T.R.T1.4","YC","AMF","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",144395.03965281,0.0470815846494634
+"T.R.T1.4","YC","AMF","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",74726.39343246,0.0243653592699506
+"T.R.T1.4","YC","AMF","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",5912.56056002,0.00192785514773217
+"T.R.T1.4","YC","AMF","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",855.75372177,0.000279027876494119
+"T.R.T1.4","YC","AMF","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",111346.83991048,0.0363058570522959
+"T.R.T1.4","YC","AMF","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",70488.55227134,0.0229835647302074
+"T.R.T1.4","YC","AMF","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",449272.07388905,0.146490081849814
+"T.R.T1.4","YC","AMF","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",97821.94539674,0.0318959170193502
+"T.R.T2.1","YC","Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",53480.23408898,0.0177895362637167
+"T.R.T2.1","YC","Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",546.29644486,0.000181718733699018
+"T.R.T2.1","YC","Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",107385.3943874,0.0357204189583347
+"T.R.T2.1","YC","Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",37283.23120762,0.0124018042346819
+"T.R.T2.1","YC","Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",107120.02805951,0.0356321481421428
+"T.R.T2.1","YC","Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",159850.55197439,0.0531723026191747
+"T.R.T2.1","YC","Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",178036.51270776,0.0592216367978275
+"T.R.T2.1","YC","Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",96060.75116565,0.0319534169117133
+"T.R.T2.1","YC","Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",66194.93664431,0.0220189242991933
+"T.R.T2.1","YC","Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",110435.22789703,0.0367349082316537
+"T.R.T2.1","YC","Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",73698.37557633,0.0245148501539991
+"T.R.T2.1","YC","Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",273953.02952585,0.0911270759435474
+"T.R.T2.1","YC","Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",65934.78144338,0.0219323868997227
+"T.R.T2.1","YC","Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",111929.66625576,0.0372320146080447
+"T.R.T2.1","YC","Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",29.71478881,9.88425578363548e-06
+"T.R.T2.1","YC","Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",87399.84743913,0.0290724747553432
+"T.R.T2.1","YC","Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",111046.1765339,0.0369381327147924
+"T.R.T2.1","YC","Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6760.74517968,0.00224887799375673
+"T.R.T2.1","YC","Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",176595.1224391,0.0587421762103545
+"T.R.T2.1","YC","Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",50201.05069525,0.0166987565973249
+"T.R.T2.1","YC","Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",66659.17427883,0.0221733471878541
+"T.R.T2.1","YC","Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",40629.93361718,0.0135150432638844
+"T.R.T2.1","YC","Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",77201.35257132,0.0256800719849219
+"T.R.T2.1","YC","Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",146149.7320869,0.0486148948893276
+"T.R.T2.1","YC","Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",73621.41162496,0.024489249050578
+"T.R.T2.1","YC","Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",7064.77554955,0.00235000992375305
+"T.R.T2.1","YC","Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",752.66920994,0.000250366073239939
+"T.R.T2.1","YC","Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",110454.40345051,0.0367412867415802
+"T.R.T2.1","YC","Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",69140.78888258,0.0229988254928392
+"T.R.T2.1","YC","Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",444547.32875993,0.147873152775574
+"T.R.T2.1","YC","Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",96111.52828873,0.0319703072916413
+"T.R.T2.2","YC","Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",55426.37996571,0.0189789653935064
+"T.R.T2.2","YC","Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",386.57135548,0.000132368817561506
+"T.R.T2.2","YC","Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",108898.58661223,0.0372887875411294
+"T.R.T2.2","YC","Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",32234.07949814,0.011037514621471
+"T.R.T2.2","YC","Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",103950.25941616,0.0355943934517434
+"T.R.T2.2","YC","Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",158627.47854208,0.0543168330237666
+"T.R.T2.2","YC","Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",170778.6013547,0.058477590762151
+"T.R.T2.2","YC","Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",79265.0397792,0.0271417409510604
+"T.R.T2.2","YC","Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",68375.56680968,0.0234129942645565
+"T.R.T2.2","YC","Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",113553.64051135,0.0388827597058452
+"T.R.T2.2","YC","Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",70679.35671562,0.0242018523665252
+"T.R.T2.2","YC","Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",275630.75891033,0.0943808099677693
+"T.R.T2.2","YC","Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",63509.52156536,0.021746774959736
+"T.R.T2.2","YC","Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",113407.54357501,0.0388327335504187
+"T.R.T2.2","YC","Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",46.73179189,1.600178582122e-05
+"T.R.T2.2","YC","Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",91222.53281794,0.0312361964561058
+"T.R.T2.2","YC","Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",108832.16847167,0.0372660448039712
+"T.R.T2.2","YC","Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6738.34078347,0.00230732616162643
+"T.R.T2.2","YC","Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",175353.0199245,0.0600439519747244
+"T.R.T2.2","YC","Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",47083.29947229,0.0161221481873707
+"T.R.T2.2","YC","Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",68653.59142638,0.0235081947734506
+"T.R.T2.2","YC","Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",38518.21762893,0.0131893138222498
+"T.R.T2.2","YC","Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",64296.57559634,0.0220162760750177
+"T.R.T2.2","YC","Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",146557.30946177,0.0501837952642973
+"T.R.T2.2","YC","Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",75466.23482637,0.0258409634551993
+"T.R.T2.2","YC","Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",7086.87602915,0.0024266707475487
+"T.R.T2.2","YC","Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",657.7118552,0.000225212083965473
+"T.R.T2.2","YC","Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",112592.93821463,0.0385537983763449
+"T.R.T2.2","YC","Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",69949.942173,0.0239520880237976
+"T.R.T2.2","YC","Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",396148.763388,0.135648290140409
+"T.R.T2.2","YC","Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",96483.39640259,0.0330376084908589
+"T.R.T2.3","YC","Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",54247.59633534,0.0185096053978317
+"T.R.T2.3","YC","Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",374.25821276,0.000127699148037135
+"T.R.T2.3","YC","Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",108101.69633789,0.0368849474856281
+"T.R.T2.3","YC","Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",30496.46229313,0.0104055759371583
+"T.R.T2.3","YC","Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",105362.41961902,0.0359502898313364
+"T.R.T2.3","YC","Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",154654.70088488,0.0527691119916765
+"T.R.T2.3","YC","Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",170839.65022308,0.0582915138282869
+"T.R.T2.3","YC","Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",87910.72688291,0.0299956675459032
+"T.R.T2.3","YC","Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",66197.70058921,0.0225870526792698
+"T.R.T2.3","YC","Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",108334.54800794,0.0369643978727422
+"T.R.T2.3","YC","Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",72480.82375579,0.024730892007384
+"T.R.T2.3","YC","Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",263098.05479542,0.0897706350913067
+"T.R.T2.3","YC","Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",62482.95488804,0.0213195591546368
+"T.R.T2.3","YC","Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",112124.21611198,0.0382574553708277
+"T.R.T2.3","YC","Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",11.80141213,4.02671263650404e-06
+"T.R.T2.3","YC","Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",92400.50823099,0.0315276078840849
+"T.R.T2.3","YC","Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",106156.26312224,0.03622115399832
+"T.R.T2.3","YC","Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6895.25708379,0.00235270309395095
+"T.R.T2.3","YC","Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",173001.61687359,0.05902918982294
+"T.R.T2.3","YC","Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",51839.14581655,0.0176878276282245
+"T.R.T2.3","YC","Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",68813.97973925,0.0234797428249946
+"T.R.T2.3","YC","Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",39730.10376636,0.0135561498169303
+"T.R.T2.3","YC","Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",67543.60619104,0.0230462837471056
+"T.R.T2.3","YC","Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",157611.39007444,0.0537779520856133
+"T.R.T2.3","YC","Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",73769.32867664,0.0251705376184203
+"T.R.T2.3","YC","Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",7692.46862349,0.00262471645519239
+"T.R.T2.3","YC","Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",642.28657057,0.00021915203210271
+"T.R.T2.3","YC","Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",109684.71335131,0.0374250823899533
+"T.R.T2.3","YC","Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",68613.42820671,0.0234113134386251
+"T.R.T2.3","YC","Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",414692.83541707,0.141495683927243
+"T.R.T2.3","YC","Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",94976.26978128,0.0324064731816376
+"T.R.T2.4","YC","Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",52916.31156352,0.0176102038904433
+"T.R.T2.4","YC","Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",590.78734912,0.00019661018250316
+"T.R.T2.4","YC","Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",108892.9315935,0.0362388585093982
+"T.R.T2.4","YC","Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",27509.06299477,0.00915483702206708
+"T.R.T2.4","YC","Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",107820.5582858,0.0358819796560299
+"T.R.T2.4","YC","Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",164715.27176409,0.0548161697958386
+"T.R.T2.4","YC","Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",176993.0111371,0.0589021215049423
+"T.R.T2.4","YC","Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",85325.00302891,0.0283956053605156
+"T.R.T2.4","YC","Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",67049.36411097,0.0223135917419602
+"T.R.T2.4","YC","Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",111682.90609075,0.0371673438534066
+"T.R.T2.4","YC","Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",75609.38955588,0.0251623124660284
+"T.R.T2.4","YC","Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",277685.99319204,0.0924120902070445
+"T.R.T2.4","YC","Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",68965.20720736,0.0229511718482197
+"T.R.T2.4","YC","Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",113957.50837227,0.0379243166801908
+"T.R.T2.4","YC","Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",34.05153068,1.1332127662312e-05
+"T.R.T2.4","YC","Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",91600.29902521,0.0304839830025413
+"T.R.T2.4","YC","Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",114215.42798108,0.0380101506463968
+"T.R.T2.4","YC","Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6375.77002828,0.00212181474556878
+"T.R.T2.4","YC","Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",182490.34538069,0.0607315985418542
+"T.R.T2.4","YC","Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",46738.49632563,0.015554267210009
+"T.R.T2.4","YC","Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",66253.13251781,0.0220486110529202
+"T.R.T2.4","YC","Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",39958.57974064,0.013297955122222
+"T.R.T2.4","YC","Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",70544.665669,0.0234768053386148
+"T.R.T2.4","YC","Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",143384.83103045,0.0477175380262846
+"T.R.T2.4","YC","Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",74602.33482747,0.0248271712104848
+"T.R.T2.4","YC","Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",5379.16395234,0.0017901507335242
+"T.R.T2.4","YC","Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",902.12276511,0.000300220581487952
+"T.R.T2.4","YC","Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",112598.94089569,0.0374721942711529
+"T.R.T2.4","YC","Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",70696.79847313,0.0235274341451206
+"T.R.T2.4","YC","Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",443488.5545571,0.147590102901515
+"T.R.T2.4","YC","Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",95889.66968161,0.0319114576240522
+"T.R.T6.1","YC","AMF+Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",54578.93935755,0.0184984244085161
+"T.R.T6.1","YC","AMF+Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",422.61782692,0.000143237739996307
+"T.R.T6.1","YC","AMF+Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",110514.05135786,0.0374564960255029
+"T.R.T6.1","YC","AMF+Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",22953.68111991,0.00777968461996323
+"T.R.T6.1","YC","AMF+Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",103241.50658738,0.0349916144928488
+"T.R.T6.1","YC","AMF+Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",164781.2000242,0.0558492453036387
+"T.R.T6.1","YC","AMF+Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",175629.431233,0.059526033224845
+"T.R.T6.1","YC","AMF+Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",87163.34843659,0.0295422489192136
+"T.R.T6.1","YC","AMF+Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",69333.54318542,0.0234991980915558
+"T.R.T6.1","YC","AMF+Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",114711.06634984,0.0388789891242042
+"T.R.T6.1","YC","AMF+Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",74258.4367238,0.0251683908591706
+"T.R.T6.1","YC","AMF+Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",277819.74659938,0.0941613677758434
+"T.R.T6.1","YC","AMF+Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",68503.84701553,0.023217989404443
+"T.R.T6.1","YC","AMF+Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",112975.86862625,0.0382908790527831
+"T.R.T6.1","YC","AMF+Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",12.81069495,4.34192519940115e-06
+"T.R.T6.1","YC","AMF+Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",92126.62576875,0.031224451095148
+"T.R.T6.1","YC","AMF+Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",113432.47170868,0.0384456354057729
+"T.R.T6.1","YC","AMF+Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6446.87919649,0.00218503893426445
+"T.R.T6.1","YC","AMF+Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",183702.43768926,0.0622622150092191
+"T.R.T6.1","YC","AMF+Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",43721.30641547,0.0148184499605206
+"T.R.T6.1","YC","AMF+Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",68223.18604111,0.0231228650601292
+"T.R.T6.1","YC","AMF+Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",38047.74979609,0.0128955130275858
+"T.R.T6.1","YC","AMF+Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",66807.3567731,0.0226429984486131
+"T.R.T6.1","YC","AMF+Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",142526.83062379,0.0483065782060647
+"T.R.T6.1","YC","AMF+Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",76646.09658993,0.0259776397391737
+"T.R.T6.1","YC","AMF+Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",3672.05572487,0.00124456880346045
+"T.R.T6.1","YC","AMF+Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",603.58270617,0.000204572115101551
+"T.R.T6.1","YC","AMF+Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",115895.18776554,0.0392803230591738
+"T.R.T6.1","YC","AMF+Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",71417.31819721,0.0242054513642226
+"T.R.T6.1","YC","AMF+Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",392800.7314513,0.133131840301264
+"T.R.T6.1","YC","AMF+Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",97494.3091623,0.0330437185025623
+"T.R.T6.2","YC","AMF+Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",53950.34046904,0.0182193026244786
+"T.R.T6.2","YC","AMF+Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",433.5460333,0.000146410686450957
+"T.R.T6.2","YC","AMF+Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",111089.49875772,0.0375154851419339
+"T.R.T6.2","YC","AMF+Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",25590.50270766,0.00864204209074371
+"T.R.T6.2","YC","AMF+Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",104160.77573047,0.0351756203600405
+"T.R.T6.2","YC","AMF+Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",165211.03353814,0.0557926009505278
+"T.R.T6.2","YC","AMF+Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",176379.45875821,0.0595642345890604
+"T.R.T6.2","YC","AMF+Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",89191.76085485,0.0301205083878418
+"T.R.T6.2","YC","AMF+Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",70059.89095068,0.0236595792347392
+"T.R.T6.2","YC","AMF+Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",114413.43108084,0.038637993885562
+"T.R.T6.2","YC","AMF+Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",74615.20761084,0.0251979326920156
+"T.R.T6.2","YC","AMF+Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",273391.638321,0.0923257378965145
+"T.R.T6.2","YC","AMF+Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",69280.49349353,0.0233963727746296
+"T.R.T6.2","YC","AMF+Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",113494.80839405,0.0383277703618023
+"T.R.T6.2","YC","AMF+Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",15.28044988,5.16028514707262e-06
+"T.R.T6.2","YC","AMF+Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",89690.86291208,0.0302890576748735
+"T.R.T6.2","YC","AMF+Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",113266.43657761,0.038250648045271
+"T.R.T6.2","YC","AMF+Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6376.4759175,0.00215336814204724
+"T.R.T6.2","YC","AMF+Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",184069.55966579,0.0621612205289059
+"T.R.T6.2","YC","AMF+Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",43875.31998433,0.0148169172908014
+"T.R.T6.2","YC","AMF+Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",67868.35608167,0.0229194868341453
+"T.R.T6.2","YC","AMF+Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",38208.86902586,0.0129033281656619
+"T.R.T6.2","YC","AMF+Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",69843.22138905,0.0235864088287968
+"T.R.T6.2","YC","AMF+Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",143109.82513444,0.0483289111800294
+"T.R.T6.2","YC","AMF+Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",75517.69338181,0.0255027066977519
+"T.R.T6.2","YC","AMF+Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",4233.23078429,0.00142958342927416
+"T.R.T6.2","YC","AMF+Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",798.00381839,0.00026948992233108
+"T.R.T6.2","YC","AMF+Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",113074.03255443,0.0381856722342936
+"T.R.T6.2","YC","AMF+Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",71363.22817649,0.0240997228025525
+"T.R.T6.2","YC","AMF+Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",400072.26361349,0.135106425261899
+"T.R.T6.2","YC","AMF+Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",98518.81290117,0.033270300999877
+"T.R.T6.3","YC","AMF+Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",53591.7143664,0.0182277346875352
+"T.R.T6.3","YC","AMF+Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",513.78807171,0.000174750757042806
+"T.R.T6.3","YC","AMF+Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",109479.08568684,0.0372362733927541
+"T.R.T6.3","YC","AMF+Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",29242.26390109,0.00994594471092609
+"T.R.T6.3","YC","AMF+Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",105680.92729852,0.0359444352005626
+"T.R.T6.3","YC","AMF+Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",156443.43284823,0.0532098930082488
+"T.R.T6.3","YC","AMF+Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",171327.59315004,0.0582723271594174
+"T.R.T6.3","YC","AMF+Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",88241.90861312,0.0300130368572445
+"T.R.T6.3","YC","AMF+Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",69194.29469151,0.0235345194763677
+"T.R.T6.3","YC","AMF+Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",112527.47495733,0.0382730984225885
+"T.R.T6.3","YC","AMF+Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",72408.05799943,0.0246275918965705
+"T.R.T6.3","YC","AMF+Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",265750.48273273,0.0903876531961374
+"T.R.T6.3","YC","AMF+Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",65872.35627898,0.0224046542957551
+"T.R.T6.3","YC","AMF+Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",113678.57572292,0.0386646134095946
+"T.R.T6.3","YC","AMF+Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",60.62034863,2.06183296160107e-05
+"T.R.T6.3","YC","AMF+Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",92167.02889165,0.0313480576137099
+"T.R.T6.3","YC","AMF+Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",108481.15850233,0.0368968561494025
+"T.R.T6.3","YC","AMF+Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",7121.0793365,0.00242203755504399
+"T.R.T6.3","YC","AMF+Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",174032.58738985,0.0591923558973949
+"T.R.T6.3","YC","AMF+Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",49473.29946974,0.0168269701298599
+"T.R.T6.3","YC","AMF+Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",69530.44181563,0.0236488505939084
+"T.R.T6.3","YC","AMF+Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",37896.5481187,0.0128894593660202
+"T.R.T6.3","YC","AMF+Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",69828.49376639,0.0237502246952184
+"T.R.T6.3","YC","AMF+Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",147197.15520843,0.0500650282160295
+"T.R.T6.3","YC","AMF+Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",74730.75156147,0.0254175916663083
+"T.R.T6.3","YC","AMF+Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",5363.57041342,0.00182426965865136
+"T.R.T6.3","YC","AMF+Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",540.14689426,0.000183715979182041
+"T.R.T6.3","YC","AMF+Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",113640.10618107,0.0386515290623091
+"T.R.T6.3","YC","AMF+Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",68893.09948888,0.0234320762851467
+"T.R.T6.3","YC","AMF+Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",410868.96940702,0.139745679984958
+"T.R.T6.3","YC","AMF+Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",96342.27680903,0.0327681523464957
+"T.R.T6.4","YC","AMF+Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",53918.23384424,0.0179010475973915
+"T.R.T6.4","YC","AMF+Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",429.25754494,0.000142515049096536
+"T.R.T6.4","YC","AMF+Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",113218.00581883,0.0375887852131703
+"T.R.T6.4","YC","AMF+Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",24867.49715669,0.00825609851234883
+"T.R.T6.4","YC","AMF+Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",107402.4478456,0.0356579990456389
+"T.R.T6.4","YC","AMF+Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",162952.44548726,0.0541007980937493
+"T.R.T6.4","YC","AMF+Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",176660.0421404,0.058651769493194
+"T.R.T6.4","YC","AMF+Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",95525.00385941,0.0317146449152652
+"T.R.T6.4","YC","AMF+Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",69657.01631783,0.0231263799960495
+"T.R.T6.4","YC","AMF+Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",113607.33344176,0.0377180433845188
+"T.R.T6.4","YC","AMF+Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",76418.71161601,0.0253712871590224
+"T.R.T6.4","YC","AMF+Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",268474.68826137,0.0891345622919556
+"T.R.T6.4","YC","AMF+Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",68387.87143061,0.0227050193279731
+"T.R.T6.4","YC","AMF+Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",113334.53745904,0.0376274741369216
+"T.R.T6.4","YC","AMF+Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",47.3475362,1.57195523426063e-05
+"T.R.T6.4","YC","AMF+Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",93247.81950759,0.0309586115187018
+"T.R.T6.4","YC","AMF+Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",112123.94896272,0.0372255544012699
+"T.R.T6.4","YC","AMF+Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6895.70223891,0.00228939794936095
+"T.R.T6.4","YC","AMF+Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",183453.56817115,0.0609072445738854
+"T.R.T6.4","YC","AMF+Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",47121.79310682,0.0156446048236006
+"T.R.T6.4","YC","AMF+Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",71569.68730695,0.0237613936449257
+"T.R.T6.4","YC","AMF+Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",39730.64659015,0.013190717591752
+"T.R.T6.4","YC","AMF+Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",73059.0971206,0.0242558830609402
+"T.R.T6.4","YC","AMF+Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",149442.63066568,0.049615490973867
+"T.R.T6.4","YC","AMF+Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",76118.40280837,0.0252715835545792
+"T.R.T6.4","YC","AMF+Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",4353.46409963,0.00144536574187764
+"T.R.T6.4","YC","AMF+Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",629.41695862,0.00020896869447562
+"T.R.T6.4","YC","AMF+Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",115269.7664826,0.0382699771343802
+"T.R.T6.4","YC","AMF+Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",71370.66927352,0.0236953189418955
+"T.R.T6.4","YC","AMF+Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",426515.94383489,0.141604827667225
+"T.R.T6.4","YC","AMF+Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",96212.55979315,0.0319429159586252
+"H.R.T1.1","HY","AMF","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",50852.56217166,0.0174035323853149
+"H.R.T1.1","HY","AMF","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",661.71638872,0.000226462583381886
+"H.R.T1.1","HY","AMF","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",106250.04479711,0.0363624961378676
+"H.R.T1.1","HY","AMF","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",21046.55664238,0.00720287070076389
+"H.R.T1.1","HY","AMF","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",101742.14127396,0.0348197332640878
+"H.R.T1.1","HY","AMF","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",164561.07274189,0.0563185774033959
+"H.R.T1.1","HY","AMF","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",173769.10600032,0.0594698897104767
+"H.R.T1.1","HY","AMF","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",87088.69522362,0.0298048094922492
+"H.R.T1.1","HY","AMF","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",65063.00691283,0.02226684555384
+"H.R.T1.1","HY","AMF","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",109479.94415633,0.0374678811115832
+"H.R.T1.1","HY","AMF","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",73200.87996024,0.0250519114596659
+"H.R.T1.1","HY","AMF","ko03010","Genetic Information Processing; Translation; Ribosome","Y",273791.25087349,0.0937009798111635
+"H.R.T1.1","HY","AMF","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",70343.27318305,0.0240739380800072
+"H.R.T1.1","HY","AMF","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",111917.89164296,0.0383022323463163
+"H.R.T1.1","HY","AMF","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",50.53647573,1.72953565060854e-05
+"H.R.T1.1","HY","AMF","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",91146.8579629,0.0311936552778269
+"H.R.T1.1","HY","AMF","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",114486.1204052,0.0391811704081913
+"H.R.T1.1","HY","AMF","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",7288.81013575,0.00249448676390646
+"H.R.T1.1","HY","AMF","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",180991.06151981,0.0619414964772011
+"H.R.T1.1","HY","AMF","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",52599.16285388,0.01800128046799
+"H.R.T1.1","HY","AMF","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",65501.34515016,0.0224168602902331
+"H.R.T1.1","HY","AMF","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",36481.71182101,0.0124853227848273
+"H.R.T1.1","HY","AMF","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",68183.31759922,0.0233347254356741
+"H.R.T1.1","HY","AMF","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",151143.10572685,0.0517264779393993
+"H.R.T1.1","HY","AMF","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",72840.30584854,0.0249285103376321
+"H.R.T1.1","HY","AMF","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",2995.55233734,0.00102518319408999
+"H.R.T1.1","HY","AMF","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",603.427799,0.000206514181264762
+"H.R.T1.1","HY","AMF","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",107006.24020142,0.0366212927578709
+"H.R.T1.1","HY","AMF","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",69873.77460864,0.0239132591821177
+"H.R.T1.1","HY","AMF","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",394887.81176837,0.13514447507046
+"H.R.T1.1","HY","AMF","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",96120.56957181,0.0328958340346944
+"H.R.T1.2","HY","AMF","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",50315.52096461,0.0173711090513199
+"H.R.T1.2","HY","AMF","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",695.04878832,0.000239961110735328
+"H.R.T1.2","HY","AMF","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",106058.11507387,0.0366158800983393
+"H.R.T1.2","HY","AMF","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",22236.63014121,0.007677053118232
+"H.R.T1.2","HY","AMF","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",103295.00744957,0.0356619350145547
+"H.R.T1.2","HY","AMF","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",157150.29021317,0.0542551239936409
+"H.R.T1.2","HY","AMF","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",170001.89235502,0.0586920567334862
+"H.R.T1.2","HY","AMF","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",90063.48854032,0.0310938384614285
+"H.R.T1.2","HY","AMF","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",64230.31389586,0.022175101553063
+"H.R.T1.2","HY","AMF","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",105631.48145533,0.0364685875935507
+"H.R.T1.2","HY","AMF","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",72660.9799221,0.0250857346163692
+"H.R.T1.2","HY","AMF","ko03010","Genetic Information Processing; Translation; Ribosome","Y",253917.44019972,0.0876633583272198
+"H.R.T1.2","HY","AMF","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",66956.74395507,0.0231163839440899
+"H.R.T1.2","HY","AMF","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",108179.96629994,0.0373484355470777
+"H.R.T1.2","HY","AMF","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",83.12722244,2.86991373328765e-05
+"H.R.T1.2","HY","AMF","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",90768.33972225,0.0313371837853271
+"H.R.T1.2","HY","AMF","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",109212.76701462,0.0377050033317103
+"H.R.T1.2","HY","AMF","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",7154.95987488,0.00247020374352835
+"H.R.T1.2","HY","AMF","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",174177.65647559,0.0601337123602268
+"H.R.T1.2","HY","AMF","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",51883.33219644,0.0179123857658979
+"H.R.T1.2","HY","AMF","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",65110.73523075,0.0224790613397506
+"H.R.T1.2","HY","AMF","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",37747.61832767,0.013032121735533
+"H.R.T1.2","HY","AMF","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",77950.41265035,0.0269118771461599
+"H.R.T1.2","HY","AMF","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",152930.40398042,0.0527982354922812
+"H.R.T1.2","HY","AMF","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",71853.53884201,0.02480697079189
+"H.R.T1.2","HY","AMF","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",4005.94985827,0.00138302834807322
+"H.R.T1.2","HY","AMF","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",647.37050305,0.000223500490296008
+"H.R.T1.2","HY","AMF","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",110570.07099255,0.0381736037747624
+"H.R.T1.2","HY","AMF","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",67976.95013007,0.0234686035451394
+"H.R.T1.2","HY","AMF","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",411197.48320132,0.141963278634092
+"H.R.T1.2","HY","AMF","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",91842.32830258,0.0317079714148918
+"H.R.T1.3","HY","AMF","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",48496.16559808,0.016949625028836
+"H.R.T1.3","HY","AMF","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",440.54956328,0.000153974026856034
+"H.R.T1.3","HY","AMF","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",105276.46357579,0.0367945910767468
+"H.R.T1.3","HY","AMF","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",21196.96720742,0.00740843407893108
+"H.R.T1.3","HY","AMF","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",100028.95516413,0.0349605636064013
+"H.R.T1.3","HY","AMF","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",150620.30414587,0.0526424645230673
+"H.R.T1.3","HY","AMF","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",165837.01005072,0.0579607707454358
+"H.R.T1.3","HY","AMF","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",104442.10093479,0.0365029776320834
+"H.R.T1.3","HY","AMF","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",63412.15754054,0.0221628303872374
+"H.R.T1.3","HY","AMF","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",103032.91014853,0.0360104592004377
+"H.R.T1.3","HY","AMF","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",72380.09132517,0.0252971630310316
+"H.R.T1.3","HY","AMF","ko03010","Genetic Information Processing; Translation; Ribosome","Y",248462.9626211,0.0868389077372348
+"H.R.T1.3","HY","AMF","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",64341.16080514,0.0224875211497203
+"H.R.T1.3","HY","AMF","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",106756.68553647,0.0373119352189807
+"H.R.T1.3","HY","AMF","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",53.61194072,1.8737611129985e-05
+"H.R.T1.3","HY","AMF","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",89745.54288075,0.031366465391199
+"H.R.T1.3","HY","AMF","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",105246.7644614,0.0367842111045079
+"H.R.T1.3","HY","AMF","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6801.86209437,0.00237728097831282
+"H.R.T1.3","HY","AMF","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",171368.39655503,0.0598940148685821
+"H.R.T1.3","HY","AMF","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",51587.70613587,0.0180301321623538
+"H.R.T1.3","HY","AMF","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",65610.17815861,0.0229310483447291
+"H.R.T1.3","HY","AMF","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",38386.6002842,0.0134162871007426
+"H.R.T1.3","HY","AMF","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",76377.09450418,0.0266941333747234
+"H.R.T1.3","HY","AMF","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",147051.59200464,0.0513951837971846
+"H.R.T1.3","HY","AMF","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",70160.53549197,0.0245214184203114
+"H.R.T1.3","HY","AMF","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",3506.80370711,0.00122564345350222
+"H.R.T1.3","HY","AMF","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",486.18586551,0.000169924116949997
+"H.R.T1.3","HY","AMF","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",108299.28768308,0.0378510815129457
+"H.R.T1.3","HY","AMF","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",67177.69589781,0.0234789027488419
+"H.R.T1.3","HY","AMF","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",414104.90430979,0.144731501224724
+"H.R.T1.3","HY","AMF","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",90504.76344382,0.0316318163462594
+"H.R.T1.4","HY","AMF","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",52877.90189632,0.017779029918744
+"H.R.T1.4","HY","AMF","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",666.23279046,0.000224006102542828
+"H.R.T1.4","HY","AMF","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",111040.79528371,0.0373350218286101
+"H.R.T1.4","HY","AMF","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",23045.28025336,0.00774846793115372
+"H.R.T1.4","HY","AMF","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",106207.65686369,0.0357099854809227
+"H.R.T1.4","HY","AMF","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",175217.47595064,0.0589130172623214
+"H.R.T1.4","HY","AMF","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",182847.37212767,0.0614784018094297
+"H.R.T1.4","HY","AMF","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",77276.70421585,0.0259825898343963
+"H.R.T1.4","HY","AMF","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",65218.73460049,0.0219283631184586
+"H.R.T1.4","HY","AMF","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",115039.47782079,0.0386794907638885
+"H.R.T1.4","HY","AMF","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",79336.35124227,0.0266751007849362
+"H.R.T1.4","HY","AMF","ko03010","Genetic Information Processing; Translation; Ribosome","Y",290296.39952079,0.0976057707906709
+"H.R.T1.4","HY","AMF","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",75959.89672684,0.0255398423178583
+"H.R.T1.4","HY","AMF","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",112225.58053549,0.0377333797755647
+"H.R.T1.4","HY","AMF","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",14.39124003,4.83873750442816e-06
+"H.R.T1.4","HY","AMF","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",90769.79663231,0.0305193449847612
+"H.R.T1.4","HY","AMF","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",125123.51646649,0.0420700266655437
+"H.R.T1.4","HY","AMF","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",5994.3272235,0.00201546050859414
+"H.R.T1.4","HY","AMF","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",199262.21348769,0.0669975306928611
+"H.R.T1.4","HY","AMF","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",46758.79368132,0.0157216145499605
+"H.R.T1.4","HY","AMF","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",63001.74218947,0.0211829482477545
+"H.R.T1.4","HY","AMF","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",38584.71001636,0.012973258945334
+"H.R.T1.4","HY","AMF","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",61700.91108912,0.0207455724400361
+"H.R.T1.4","HY","AMF","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",139282.58431514,0.0468307013874013
+"H.R.T1.4","HY","AMF","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",75140.08317073,0.0252641980653604
+"H.R.T1.4","HY","AMF","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",2567.00361887,0.000863098430624194
+"H.R.T1.4","HY","AMF","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",1063.40133876,0.000357545279586107
+"H.R.T1.4","HY","AMF","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",105608.82380839,0.0355086410549017
+"H.R.T1.4","HY","AMF","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",71120.41594969,0.0239126734922714
+"H.R.T1.4","HY","AMF","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",380864.58793283,0.128057329451628
+"H.R.T1.4","HY","AMF","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",100059.33999722,0.0336427493463798
+"H.R.T2.1","HY","Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",50329.98323995,0.0170835270290965
+"H.R.T2.1","HY","Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",813.99000978,0.000276292965709817
+"H.R.T2.1","HY","Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",108023.13290397,0.0366663366831372
+"H.R.T2.1","HY","Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",20585.45810715,0.00698733056006043
+"H.R.T2.1","HY","Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",104912.92089392,0.0356106361340909
+"H.R.T2.1","HY","Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",169408.14222993,0.0575022757892918
+"H.R.T2.1","HY","Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",176446.15160714,0.0598911902233258
+"H.R.T2.1","HY","Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",82473.84309697,0.02799413067601
+"H.R.T2.1","HY","Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",65356.2729498,0.022183906760626
+"H.R.T2.1","HY","Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",110189.36049658,0.0374016202109122
+"H.R.T2.1","HY","Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",78291.52512282,0.0265745247561147
+"H.R.T2.1","HY","Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",278063.96328787,0.0943833660742295
+"H.R.T2.1","HY","Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",72196.5596622,0.0245057081087596
+"H.R.T2.1","HY","Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",109987.88934555,0.0373332347747837
+"H.R.T2.1","HY","Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",38.1284289,1.29419483925658e-05
+"H.R.T2.1","HY","Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",89851.92806204,0.0304984771074965
+"H.R.T2.1","HY","Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",117843.6051275,0.039999703632006
+"H.R.T2.1","HY","Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6270.68889519,0.00212846252543557
+"H.R.T2.1","HY","Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",188359.44933338,0.0639349257982335
+"H.R.T2.1","HY","Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",48404.79630439,0.0164300600312455
+"H.R.T2.1","HY","Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",63108.15834601,0.0214208282907753
+"H.R.T2.1","HY","Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",36731.51084669,0.0124677919199244
+"H.R.T2.1","HY","Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",66828.84039068,0.0226837409361811
+"H.R.T2.1","HY","Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",142846.89899985,0.0484865820131949
+"H.R.T2.1","HY","Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",74295.64449531,0.0252182013419053
+"H.R.T2.1","HY","Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",2910.66554339,0.000987968409329684
+"H.R.T2.1","HY","Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",875.0547023,0.000297020179550033
+"H.R.T2.1","HY","Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",107213.15391157,0.0363914051787158
+"H.R.T2.1","HY","Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",70402.2561282,0.0238966669180373
+"H.R.T2.1","HY","Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",408298.56683076,0.138588951423652
+"H.R.T2.1","HY","Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",94753.41721998,0.0321621915997761
+"H.R.T2.2","HY","Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",51728.26266725,0.0175673652540267
+"H.R.T2.2","HY","Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",942.61694972,0.000320120866167263
+"H.R.T2.2","HY","Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",107202.19176589,0.0364067912138856
+"H.R.T2.2","HY","Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",21731.88089645,0.007380334650339
+"H.R.T2.2","HY","Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",105782.76187943,0.0359247405517876
+"H.R.T2.2","HY","Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",166607.23293243,0.0565812568211331
+"H.R.T2.2","HY","Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",178237.79635595,0.060531096719786
+"H.R.T2.2","HY","Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",83349.44879394,0.0283061934653368
+"H.R.T2.2","HY","Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",66292.58646311,0.0225135355409668
+"H.R.T2.2","HY","Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",110184.83732098,0.0374197234329052
+"H.R.T2.2","HY","Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",77977.6004756,0.0264818673304239
+"H.R.T2.2","HY","Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",270772.38892393,0.0919566444272568
+"H.R.T2.2","HY","Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",70987.58798263,0.0241079986508566
+"H.R.T2.2","HY","Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",110687.09486747,0.0375902944383058
+"H.R.T2.2","HY","Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",148.49026585,5.04285781572559e-05
+"H.R.T2.2","HY","Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",90537.72257094,0.0307473933911648
+"H.R.T2.2","HY","Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",116562.32638273,0.039585573859238
+"H.R.T2.2","HY","Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6511.8892417,0.00221149388949297
+"H.R.T2.2","HY","Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",188651.51969816,0.0640676872057991
+"H.R.T2.2","HY","Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",47936.61932149,0.0162796903905495
+"H.R.T2.2","HY","Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",64124.25612723,0.0217771518111126
+"H.R.T2.2","HY","Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",39364.39458809,0.0133684887540294
+"H.R.T2.2","HY","Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",65238.80929339,0.0221556637029755
+"H.R.T2.2","HY","Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",142629.2712517,0.0484381337164183
+"H.R.T2.2","HY","Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",73976.2858122,0.0251229862746187
+"H.R.T2.2","HY","Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",2628.68413802,0.00089272386136603
+"H.R.T2.2","HY","Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",964.40050651,0.000327518750397851
+"H.R.T2.2","HY","Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",110045.29209102,0.0373723326662766
+"H.R.T2.2","HY","Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",70482.55127067,0.0239364838168331
+"H.R.T2.2","HY","Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",407662.14826155,0.138445590272761
+"H.R.T2.2","HY","Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",94616.83633916,0.0321326956956325
+"H.R.T2.3","HY","Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",51606.9410122,0.0175944559568279
+"H.R.T2.3","HY","Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",807.26343975,0.000275221913131435
+"H.R.T2.3","HY","Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",107506.98601401,0.0366525683052528
+"H.R.T2.3","HY","Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",22396.93223115,0.00763583018059278
+"H.R.T2.3","HY","Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",103027.81118447,0.0351254744160288
+"H.R.T2.3","HY","Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",169807.9369734,0.057892954118168
+"H.R.T2.3","HY","Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",177831.56125376,0.0606284641337986
+"H.R.T2.3","HY","Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",83096.93769236,0.0283304024943054
+"H.R.T2.3","HY","Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",64590.01546429,0.0220208010792314
+"H.R.T2.3","HY","Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",110516.19428786,0.0376785036038914
+"H.R.T2.3","HY","Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",76992.08538254,0.0262490631825513
+"H.R.T2.3","HY","Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",272796.1733727,0.0930049362248094
+"H.R.T2.3","HY","Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",72430.49910693,0.0246938725968408
+"H.R.T2.3","HY","Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",109099.62665079,0.0371955504117151
+"H.R.T2.3","HY","Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",62.60035284,2.13424614852659e-05
+"H.R.T2.3","HY","Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",88229.12495362,0.0300801291969419
+"H.R.T2.3","HY","Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",117713.33042368,0.0401322373899541
+"H.R.T2.3","HY","Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6315.95198695,0.00215330994010207
+"H.R.T2.3","HY","Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",190419.41011139,0.0649200642165165
+"H.R.T2.3","HY","Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",46961.57667793,0.0160107027527112
+"H.R.T2.3","HY","Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",62632.51532665,0.0213534267051322
+"H.R.T2.3","HY","Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",38332.32398378,0.0130687146501483
+"H.R.T2.3","HY","Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",65718.70764518,0.0224056083256208
+"H.R.T2.3","HY","Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",140679.71368935,0.0479622116323711
+"H.R.T2.3","HY","Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",73098.10788189,0.0249214817702783
+"H.R.T2.3","HY","Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",2857.93010703,0.000974359735523651
+"H.R.T2.3","HY","Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",788.15467412,0.00026870712406097
+"H.R.T2.3","HY","Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",107133.45920212,0.03652522107421
+"H.R.T2.3","HY","Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",69548.00362723,0.0237111377404704
+"H.R.T2.3","HY","Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",405109.77471108,0.138114872709653
+"H.R.T2.3","HY","Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",95028.85328353,0.032398373957675
+"H.R.T2.4","HY","Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",49128.99465981,0.0170234718856847
+"H.R.T2.4","HY","Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",683.07531781,0.000236689424423663
+"H.R.T2.4","HY","Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",104267.94724322,0.0361294278615689
+"H.R.T2.4","HY","Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",20101.0536609,0.00696512770591861
+"H.R.T2.4","HY","Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",103401.11564973,0.0358290658581617
+"H.R.T2.4","HY","Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",162580.08068222,0.056334908781071
+"H.R.T2.4","HY","Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",171710.05587387,0.0594984963339666
+"H.R.T2.4","HY","Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",88183.64128343,0.0305561257371673
+"H.R.T2.4","HY","Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",63950.2767251,0.0221591291547855
+"H.R.T2.4","HY","Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",107455.22227618,0.0372338365166055
+"H.R.T2.4","HY","Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",75009.5670855,0.0259912352222826
+"H.R.T2.4","HY","Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",264294.91980723,0.0915796703763664
+"H.R.T2.4","HY","Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",70471.16254753,0.0244186526243082
+"H.R.T2.4","HY","Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",108315.5921477,0.0375319594971494
+"H.R.T2.4","HY","Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",0,0
+"H.R.T2.4","HY","Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",88677.05429426,0.0307270961096745
+"H.R.T2.4","HY","Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",113918.5346065,0.0394734104485673
+"H.R.T2.4","HY","Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6257.57501938,0.00216828480111606
+"H.R.T2.4","HY","Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",182415.13658169,0.0632078667724511
+"H.R.T2.4","HY","Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",49121.13036406,0.017020746863149
+"H.R.T2.4","HY","Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",62409.0260908,0.0216250771754303
+"H.R.T2.4","HY","Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",37404.99998209,0.0129610420483538
+"H.R.T2.4","HY","Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",68244.73582655,0.0236471832923467
+"H.R.T2.4","HY","Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",144156.27078598,0.0499509554360535
+"H.R.T2.4","HY","Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",70884.4971885,0.0245618753930348
+"H.R.T2.4","HY","Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",2794.49432807,0.000968307940311289
+"H.R.T2.4","HY","Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",720.43863938,0.000249636024668732
+"H.R.T2.4","HY","Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",106077.55167999,0.0367564659368822
+"H.R.T2.4","HY","Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",70530.96464278,0.0244393743853424
+"H.R.T2.4","HY","Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",399375.1484126,0.138385726349999
+"H.R.T2.4","HY","Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",93415.96160923,0.032369154043159
+"H.R.T6.1","HY","AMF+Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",49069.29248867,0.0173733555912607
+"H.R.T6.1","HY","AMF+Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",835.47691441,0.000295806945365794
+"H.R.T6.1","HY","AMF+Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",105722.03175155,0.0374316880944295
+"H.R.T6.1","HY","AMF+Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",21091.52028937,0.00746761290744353
+"H.R.T6.1","HY","AMF+Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",101119.90624605,0.035802270615033
+"H.R.T6.1","HY","AMF+Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",160707.58572476,0.0568997409867676
+"H.R.T6.1","HY","AMF+Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",170623.82962779,0.0604106624351824
+"H.R.T6.1","HY","AMF+Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",78134.92034711,0.02766426183134
+"H.R.T6.1","HY","AMF+Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",62156.44607847,0.0220069616911558
+"H.R.T6.1","HY","AMF+Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",106351.66122345,0.0376546131897645
+"H.R.T6.1","HY","AMF+Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",72923.56890141,0.0258191432819319
+"H.R.T6.1","HY","AMF+Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",265584.07069715,0.0940320568237556
+"H.R.T6.1","HY","AMF+Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",69554.68510545,0.0246263643938653
+"H.R.T6.1","HY","AMF+Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",105999.05357805,0.0375297697755428
+"H.R.T6.1","HY","AMF+Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",45.87881263,1.62437419718218e-05
+"H.R.T6.1","HY","AMF+Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",86479.08954062,0.0306185782920056
+"H.R.T6.1","HY","AMF+Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",114705.22111258,0.0406122544975184
+"H.R.T6.1","HY","AMF+Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6426.72249593,0.00227542989811656
+"H.R.T6.1","HY","AMF+Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",182933.42494735,0.0647689681254593
+"H.R.T6.1","HY","AMF+Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",46813.31489697,0.0165746095951661
+"H.R.T6.1","HY","AMF+Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",60477.27978861,0.0214124401162353
+"H.R.T6.1","HY","AMF+Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",37379.98232438,0.013234666570064
+"H.R.T6.1","HY","AMF+Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",62584.01771685,0.0221583466762975
+"H.R.T6.1","HY","AMF+Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",133729.09690929,0.0473478021726053
+"H.R.T6.1","HY","AMF+Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",71189.71591823,0.0252052594680026
+"H.R.T6.1","HY","AMF+Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",2529.13797832,0.000895460505098194
+"H.R.T6.1","HY","AMF+Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",867.4650393,0.000307132583870567
+"H.R.T6.1","HY","AMF+Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",102579.36230841,0.036319002115636
+"H.R.T6.1","HY","AMF+Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",68794.6810774,0.0243572791969848
+"H.R.T6.1","HY","AMF+Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",384581.24255863,0.136163909072924
+"H.R.T6.1","HY","AMF+Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",92409.566837,0.0327183088092063
+"H.R.T6.2","HY","AMF+Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",51960.69486457,0.0179177713232486
+"H.R.T6.2","HY","AMF+Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",568.37313243,0.000195993911161171
+"H.R.T6.2","HY","AMF+Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",106572.10951269,0.0367495987623258
+"H.R.T6.2","HY","AMF+Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",24676.431635,0.00850925223887242
+"H.R.T6.2","HY","AMF+Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",105117.62138407,0.0362480430046725
+"H.R.T6.2","HY","AMF+Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",163478.60568966,0.0563728464491369
+"H.R.T6.2","HY","AMF+Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",175174.01461254,0.0604058114269578
+"H.R.T6.2","HY","AMF+Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",82164.54100768,0.0283330594498869
+"H.R.T6.2","HY","AMF+Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",68068.77986857,0.0234723733990943
+"H.R.T6.2","HY","AMF+Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",113349.28633489,0.0390865941553609
+"H.R.T6.2","HY","AMF+Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",73357.8682805,0.0252962265427139
+"H.R.T6.2","HY","AMF+Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",266914.26267295,0.0920408923312619
+"H.R.T6.2","HY","AMF+Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",71133.13148566,0.0245290634928691
+"H.R.T6.2","HY","AMF+Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",113844.97153275,0.039257522855347
+"H.R.T6.2","HY","AMF+Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",68.88542254,2.37539788833479e-05
+"H.R.T6.2","HY","AMF+Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",91700.16906077,0.0316212603356553
+"H.R.T6.2","HY","AMF+Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",112880.14841668,0.0389248198380724
+"H.R.T6.2","HY","AMF+Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",7112.02968948,0.00245246377001683
+"H.R.T6.2","HY","AMF+Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",180982.27695596,0.0624086929651298
+"H.R.T6.2","HY","AMF+Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",48619.11545148,0.0167654838887123
+"H.R.T6.2","HY","AMF+Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",64765.36161852,0.0223332451995251
+"H.R.T6.2","HY","AMF+Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",37159.92668635,0.012813975457605
+"H.R.T6.2","HY","AMF+Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",65693.88272747,0.022653430080469
+"H.R.T6.2","HY","AMF+Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",143326.60806689,0.0494237691503718
+"H.R.T6.2","HY","AMF+Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",73619.0973227,0.0253863069824257
+"H.R.T6.2","HY","AMF+Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",3658.71151082,0.00126164510231195
+"H.R.T6.2","HY","AMF+Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",470.9429829,0.000162396763474472
+"H.R.T6.2","HY","AMF+Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",107781.04041056,0.0371664782407489
+"H.R.T6.2","HY","AMF+Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",71640.25041881,0.0247039349240837
+"H.R.T6.2","HY","AMF+Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",375997.1672555,0.129656296526301
+"H.R.T6.2","HY","AMF+Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",98096.7030523,0.0338269974533044
+"H.R.T6.3","HY","AMF+Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",52624.06910478,0.0181450731194321
+"H.R.T6.3","HY","AMF+Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",686.46517546,0.000236697028841772
+"H.R.T6.3","HY","AMF+Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",108729.17904848,0.0374904285740855
+"H.R.T6.3","HY","AMF+Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",23091.87245172,0.00796220667137654
+"H.R.T6.3","HY","AMF+Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",102783.64823919,0.0354403763241617
+"H.R.T6.3","HY","AMF+Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",167243.23844693,0.0576664032632649
+"H.R.T6.3","HY","AMF+Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",174995.92502907,0.0603395729230432
+"H.R.T6.3","HY","AMF+Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",77765.17855094,0.0268138681587496
+"H.R.T6.3","HY","AMF+Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",68327.38610572,0.0235596645800874
+"H.R.T6.3","HY","AMF+Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",115131.29356408,0.0396979134375848
+"H.R.T6.3","HY","AMF+Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",73038.8947048,0.0251842190755393
+"H.R.T6.3","HY","AMF+Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",273985.52274935,0.0944717394250535
+"H.R.T6.3","HY","AMF+Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",72732.38655875,0.025078533353846
+"H.R.T6.3","HY","AMF+Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",113424.58069156,0.0391094293010941
+"H.R.T6.3","HY","AMF+Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",5.91324096,2.03891852943532e-06
+"H.R.T6.3","HY","AMF+Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",89071.14342547,0.030712228031408
+"H.R.T6.3","HY","AMF+Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",117204.31440188,0.0404127026076334
+"H.R.T6.3","HY","AMF+Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",6501.37083361,0.00224170899664772
+"H.R.T6.3","HY","AMF+Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",186633.07452076,0.0643521271025393
+"H.R.T6.3","HY","AMF+Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",47913.83936525,0.0165209595819001
+"H.R.T6.3","HY","AMF+Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",64355.60096334,0.0221901708664853
+"H.R.T6.3","HY","AMF+Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",35239.68369033,0.012150839875068
+"H.R.T6.3","HY","AMF+Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",63917.23097018,0.0220390184429923
+"H.R.T6.3","HY","AMF+Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",143407.70702518,0.0494477788230487
+"H.R.T6.3","HY","AMF+Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",74547.9065919,0.0257045348073958
+"H.R.T6.3","HY","AMF+Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",3070.52675303,0.00105873478422901
+"H.R.T6.3","HY","AMF+Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",710.74910064,0.000245070261955702
+"H.R.T6.3","HY","AMF+Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",106940.28112251,0.0368736065718702
+"H.R.T6.3","HY","AMF+Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",71784.2123405,0.0247515975844768
+"H.R.T6.3","HY","AMF+Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",365858.00002524,0.126149883023473
+"H.R.T6.3","HY","AMF+Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",98463.81732737,0.0339508744841864
+"H.R.T6.4","HY","AMF+Str","ko00730","Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism","S",46344.46406998,0.0161953800412741
+"H.R.T6.4","HY","AMF+Str","ko04024","Environmental Information Processing; Signal transduction; cAMP signaling pathway","A",908.97169832,0.000317646182698884
+"H.R.T6.4","HY","AMF+Str","ko00061","Metabolism; Lipid metabolism; Fatty acid biosynthesis","Y",103365.06517691,0.0361216069087202
+"H.R.T6.4","HY","AMF+Str","ko02060","Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)","A",19773.90691856,0.00691012279186761
+"H.R.T6.4","HY","AMF+Str","ko00030","Metabolism; Carbohydrate metabolism; Pentose phosphate pathway","Y",101391.20628368,0.0354318288399645
+"H.R.T6.4","HY","AMF+Str","ko00020","Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)","Y",164949.40450139,0.0576426623349884
+"H.R.T6.4","HY","AMF+Str","ko00010","Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis","Y",174775.61583197,0.061076496991579
+"H.R.T6.4","HY","AMF+Str","ko02040","Cellular Processes; Cell motility; Flagellar assembly","A",81916.60154996,0.0286262991797242
+"H.R.T6.4","HY","AMF+Str","ko03410","Genetic Information Processing; Replication and repair; Base excision repair","S",62636.0657132,0.0218885881814002
+"H.R.T6.4","HY","AMF+Str","ko00550","Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis","S",103693.19381239,0.0362362736345237
+"H.R.T6.4","HY","AMF+Str","ko00290","Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis","Y",76518.81665651,0.0267400074837307
+"H.R.T6.4","HY","AMF+Str","ko03010","Genetic Information Processing; Translation; Ribosome","Y",261597.80437943,0.0914170860513216
+"H.R.T6.4","HY","AMF+Str","ko03420","Genetic Information Processing; Replication and repair; Nucleotide excision repair","S",70840.03061001,0.0247555180729291
+"H.R.T6.4","HY","AMF+Str","ko03440","Genetic Information Processing; Replication and repair; Homologous recombination","S",104649.9753455,0.0365706272807713
+"H.R.T6.4","HY","AMF+Str","ko04810","Cellular Processes; Cell motility; Regulation of actin cytoskeleton","A",3.90950889,1.36620378547657e-06
+"H.R.T6.4","HY","AMF+Str","ko00400","Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis","Y",86579.71865608,0.0302558563496279
+"H.R.T6.4","HY","AMF+Str","ko03018","Genetic Information Processing; Folding, sorting and degradation; RNA degradation","A",115935.85492279,0.040514552677735
+"H.R.T6.4","HY","AMF+Str","ko03008","Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes","Y",5943.61569132,0.00207703588490864
+"H.R.T6.4","HY","AMF+Str","ko00720","Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes","Y",187327.94470146,0.0654629914850201
+"H.R.T6.4","HY","AMF+Str","ko00540","Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis","S",49821.72199988,0.0174105308647085
+"H.R.T6.4","HY","AMF+Str","ko00780","Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism","A",58849.76666803,0.0205654408925709
+"H.R.T6.4","HY","AMF+Str","ko00053","Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism","S",37761.36049487,0.0131959576264928
+"H.R.T6.4","HY","AMF+Str","ko02030","Cellular Processes; Cell motility; Bacterial chemotaxis","A",62720.86574099,0.0219182221129847
+"H.R.T6.4","HY","AMF+Str","ko03070","Environmental Information Processing; Membrane transport; Bacterial secretion system","A",137219.18892591,0.0479521547655576
+"H.R.T6.4","HY","AMF+Str","ko00300","Metabolism; Amino acid metabolism; Lysine biosynthesis","Y",70717.83049874,0.0247128144343647
+"H.R.T6.4","HY","AMF+Str","ko01053","Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides","A",2484.00647269,0.000868052520565412
+"H.R.T6.4","HY","AMF+Str","ko03050","Genetic Information Processing; Folding, sorting and degradation; Proteasome","S",779.51901837,0.000272408085954775
+"H.R.T6.4","HY","AMF+Str","ko00860","Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism","S",101273.86953628,0.0353908247361285
+"H.R.T6.4","HY","AMF+Str","ko00670","Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate","Y",68214.8715297,0.0238381388383732
+"H.R.T6.4","HY","AMF+Str","ko02010","Environmental Information Processing; Membrane transport; ABC transporters","A",410685.26880214,0.143516688326791
+"H.R.T6.4","HY","AMF+Str","ko03430","Genetic Information Processing; Replication and repair; Mismatch repair","S",91905.02580892,0.0321168202189377

@@ -1,0 +1,161 @@
+Sample	Group	Site	Niche	Treatment
+H.T.CK.1	H.T.CK	HY	Topsoil	Ctrl
+H.T.CK.2	H.T.CK	HY	Topsoil	Ctrl
+H.T.CK.3	H.T.CK	HY	Topsoil	Ctrl
+H.T.CK.4	H.T.CK	HY	Topsoil	Ctrl
+H.T.T1.1	H.T.T1	HY	Topsoil	AMF
+H.T.T1.2	H.T.T1	HY	Topsoil	AMF
+H.T.T1.3	H.T.T1	HY	Topsoil	AMF
+H.T.T1.4	H.T.T1	HY	Topsoil	AMF
+H.T.T2.1	H.T.T2	HY	Topsoil	Str
+H.T.T2.2	H.T.T2	HY	Topsoil	Str
+H.T.T2.3	H.T.T2	HY	Topsoil	Str
+H.T.T2.4	H.T.T2	HY	Topsoil	Str
+H.T.T6.1	H.T.T6	HY	Topsoil	AMF+Str
+H.T.T6.2	H.T.T6	HY	Topsoil	AMF+Str
+H.T.T6.3	H.T.T6	HY	Topsoil	AMF+Str
+H.T.T6.4	H.T.T6	HY	Topsoil	AMF+Str
+H.S.CK.1	H.S.CK	HY	Subsoil	Ctrl
+H.S.CK.2	H.S.CK	HY	Subsoil	Ctrl
+H.S.CK.3	H.S.CK	HY	Subsoil	Ctrl
+H.S.CK.4	H.S.CK	HY	Subsoil	Ctrl
+H.S.T1.1	H.S.T1	HY	Subsoil	AMF
+H.S.T1.2	H.S.T1	HY	Subsoil	AMF
+H.S.T1.3	H.S.T1	HY	Subsoil	AMF
+H.S.T1.4	H.S.T1	HY	Subsoil	AMF
+H.S.T2.1	H.S.T2	HY	Subsoil	Str
+H.S.T2.2	H.S.T2	HY	Subsoil	Str
+H.S.T2.3	H.S.T2	HY	Subsoil	Str
+H.S.T2.4	H.S.T2	HY	Subsoil	Str
+H.S.T6.1	H.S.T6	HY	Subsoil	AMF+Str
+H.S.T6.2	H.S.T6	HY	Subsoil	AMF+Str
+H.S.T6.3	H.S.T6	HY	Subsoil	AMF+Str
+H.S.T6.4	H.S.T6	HY	Subsoil	AMF+Str
+H.B.CK.1	H.B.CK	HY	Bottom soil	Ctrl
+H.B.CK.2	H.B.CK	HY	Bottom soil	Ctrl
+H.B.CK.3	H.B.CK	HY	Bottom soil	Ctrl
+H.B.CK.4	H.B.CK	HY	Bottom soil	Ctrl
+H.B.T1.1	H.B.T1	HY	Bottom soil	AMF
+H.B.T1.2	H.B.T1	HY	Bottom soil	AMF
+H.B.T1.3	H.B.T1	HY	Bottom soil	AMF
+H.B.T1.4	H.B.T1	HY	Bottom soil	AMF
+H.B.T2.1	H.B.T2	HY	Bottom soil	Str
+H.B.T2.2	H.B.T2	HY	Bottom soil	Str
+H.B.T2.3	H.B.T2	HY	Bottom soil	Str
+H.B.T2.4	H.B.T2	HY	Bottom soil	Str
+H.B.T6.1	H.B.T6	HY	Bottom soil	AMF+Str
+H.B.T6.2	H.B.T6	HY	Bottom soil	AMF+Str
+H.B.T6.3	H.B.T6	HY	Bottom soil	AMF+Str
+H.B.T6.4	H.B.T6	HY	Bottom soil	AMF+Str
+H.E.T1.1	H.E.T1	HY	Endosphere	AMF
+H.E.T1.2	H.E.T1	HY	Endosphere	AMF
+H.E.T1.3	H.E.T1	HY	Endosphere	AMF
+H.E.T1.4	H.E.T1	HY	Endosphere	AMF
+H.E.T2.1	H.E.T2	HY	Endosphere	Str
+H.E.T2.2	H.E.T2	HY	Endosphere	Str
+H.E.T2.3	H.E.T2	HY	Endosphere	Str
+H.E.T2.4	H.E.T2	HY	Endosphere	Str
+H.E.T6.1	H.E.T6	HY	Endosphere	AMF+Str
+H.E.T6.2	H.E.T6	HY	Endosphere	AMF+Str
+H.E.T6.3	H.E.T6	HY	Endosphere	AMF+Str
+H.E.T6.4	H.E.T6	HY	Endosphere	AMF+Str
+T.T.T1.1	T.T.T1	YC	Topsoil	AMF
+T.T.T1.2	T.T.T1	YC	Topsoil	AMF
+T.T.T1.3	T.T.T1	YC	Topsoil	AMF
+T.T.T1.4	T.T.T1	YC	Topsoil	AMF
+T.T.T2.1	T.T.T2	YC	Topsoil	Str
+T.T.T2.2	T.T.T2	YC	Topsoil	Str
+T.T.T2.3	T.T.T2	YC	Topsoil	Str
+T.T.T2.4	T.T.T2	YC	Topsoil	Str
+T.T.T6.1	T.T.T6	YC	Topsoil	AMF+Str
+T.T.T6.2	T.T.T6	YC	Topsoil	AMF+Str
+T.T.T6.3	T.T.T6	YC	Topsoil	AMF+Str
+T.T.T6.4	T.T.T6	YC	Topsoil	AMF+Str
+T.S.CK.1	T.S.CK	YC	Subsoil	Ctrl
+T.S.CK.2	T.S.CK	YC	Subsoil	Ctrl
+T.S.CK.3	T.S.CK	YC	Subsoil	Ctrl
+T.S.CK.4	T.S.CK	YC	Subsoil	Ctrl
+T.S.T1.1	T.S.T1	YC	Subsoil	AMF
+T.S.T1.2	T.S.T1	YC	Subsoil	AMF
+T.S.T1.3	T.S.T1	YC	Subsoil	AMF
+T.S.T1.4	T.S.T1	YC	Subsoil	AMF
+T.S.T2.1	T.S.T2	YC	Subsoil	Str
+T.S.T2.2	T.S.T2	YC	Subsoil	Str
+T.S.T2.3	T.S.T2	YC	Subsoil	Str
+T.S.T2.4	T.S.T2	YC	Subsoil	Str
+T.S.T6.1	T.S.T6	YC	Subsoil	AMF+Str
+T.S.T6.2	T.S.T6	YC	Subsoil	AMF+Str
+T.S.T6.3	T.S.T6	YC	Subsoil	AMF+Str
+T.S.T6.4	T.S.T6	YC	Subsoil	AMF+Str
+T.B.CK.1	T.B.CK	YC	Bottom soil	Ctrl
+T.B.CK.2	T.B.CK	YC	Bottom soil	Ctrl
+T.B.CK.3	T.B.CK	YC	Bottom soil	Ctrl
+T.B.CK.4	T.B.CK	YC	Bottom soil	Ctrl
+T.B.T1.1	T.B.T1	YC	Bottom soil	AMF
+T.B.T1.2	T.B.T1	YC	Bottom soil	AMF
+T.B.T1.3	T.B.T1	YC	Bottom soil	AMF
+T.B.T1.4	T.B.T1	YC	Bottom soil	AMF
+T.B.T2.1	T.B.T2	YC	Bottom soil	Str
+T.B.T2.2	T.B.T2	YC	Bottom soil	Str
+T.B.T2.3	T.B.T2	YC	Bottom soil	Str
+T.B.T2.4	T.B.T2	YC	Bottom soil	Str
+T.B.T6.1	T.B.T6	YC	Bottom soil	AMF+Str
+T.B.T6.2	T.B.T6	YC	Bottom soil	AMF+Str
+T.B.T6.3	T.B.T6	YC	Bottom soil	AMF+Str
+T.B.T6.4	T.B.T6	YC	Bottom soil	AMF+Str
+T.E.CK.1	T.E.CK	YC	Endosphere	Ctrl
+T.E.CK.2	T.E.CK	YC	Endosphere	Ctrl
+T.E.CK.3	T.E.CK	YC	Endosphere	Ctrl
+T.E.CK.4	T.E.CK	YC	Endosphere	Ctrl
+T.E.T1.1	T.E.T1	YC	Endosphere	AMF
+T.E.T1.2	T.E.T1	YC	Endosphere	AMF
+T.E.T1.3	T.E.T1	YC	Endosphere	AMF
+T.E.T1.4	T.E.T1	YC	Endosphere	AMF
+T.E.T2.1	T.E.T2	YC	Endosphere	Str
+T.E.T2.2	T.E.T2	YC	Endosphere	Str
+T.E.T2.3	T.E.T2	YC	Endosphere	Str
+T.E.T2.4	T.E.T2	YC	Endosphere	Str
+T.E.T6.1	T.E.T6	YC	Endosphere	AMF+Str
+T.E.T6.2	T.E.T6	YC	Endosphere	AMF+Str
+T.E.T6.3	T.E.T6	YC	Endosphere	AMF+Str
+T.E.T6.4	T.E.T6	YC	Endosphere	AMF+Str
+T.T.CK.1	T.T.CK	YC	Topsoil	Ctrl
+T.T.CK.2	T.T.CK	YC	Topsoil	Ctrl
+T.T.CK.3	T.T.CK	YC	Topsoil	Ctrl
+T.T.CK.4	T.T.CK	YC	Topsoil	Ctrl
+H.E.CK.1	H.E.CK	HY	Endosphere	Ctrl
+H.E.CK.2	H.E.CK	HY	Endosphere	Ctrl
+H.E.CK.3	H.E.CK	HY	Endosphere	Ctrl
+H.E.CK.4	H.E.CK	HY	Endosphere	Ctrl
+T.R.CK.1	T.R.CK	YC	Rhizosphere	Ctrl
+T.R.CK.2	T.R.CK	YC	Rhizosphere	Ctrl
+T.R.CK.3	T.R.CK	YC	Rhizosphere	Ctrl
+T.R.CK.4	T.R.CK	YC	Rhizosphere	Ctrl
+H.R.CK.1	H.R.CK	HY	Rhizosphere	Ctrl
+H.R.CK.2	H.R.CK	HY	Rhizosphere	Ctrl
+H.R.CK.3	H.R.CK	HY	Rhizosphere	Ctrl
+H.R.CK.4	H.R.CK	HY	Rhizosphere	Ctrl
+H.R.T1.1	H.R.T1	HY	Rhizosphere	AMF
+H.R.T1.2	H.R.T1	HY	Rhizosphere	AMF
+H.R.T1.3	H.R.T1	HY	Rhizosphere	AMF
+H.R.T1.4	H.R.T1	HY	Rhizosphere	AMF
+H.R.T2.1	H.R.T2	HY	Rhizosphere	Str
+H.R.T2.2	H.R.T2	HY	Rhizosphere	Str
+H.R.T2.3	H.R.T2	HY	Rhizosphere	Str
+H.R.T2.4	H.R.T2	HY	Rhizosphere	Str
+H.R.T6.1	H.R.T6	HY	Rhizosphere	AMF+Str
+H.R.T6.2	H.R.T6	HY	Rhizosphere	AMF+Str
+H.R.T6.3	H.R.T6	HY	Rhizosphere	AMF+Str
+H.R.T6.4	H.R.T6	HY	Rhizosphere	AMF+Str
+T.R.T1.1	T.R.T1	YC	Rhizosphere	AMF
+T.R.T1.2	T.R.T1	YC	Rhizosphere	AMF
+T.R.T1.3	T.R.T1	YC	Rhizosphere	AMF
+T.R.T1.4	T.R.T1	YC	Rhizosphere	AMF
+T.R.T2.1	T.R.T2	YC	Rhizosphere	Str
+T.R.T2.2	T.R.T2	YC	Rhizosphere	Str
+T.R.T2.3	T.R.T2	YC	Rhizosphere	Str
+T.R.T2.4	T.R.T2	YC	Rhizosphere	Str
+T.R.T6.1	T.R.T6	YC	Rhizosphere	AMF+Str
+T.R.T6.2	T.R.T6	YC	Rhizosphere	AMF+Str
+T.R.T6.3	T.R.T6	YC	Rhizosphere	AMF+Str
+T.R.T6.4	T.R.T6	YC	Rhizosphere	AMF+Str

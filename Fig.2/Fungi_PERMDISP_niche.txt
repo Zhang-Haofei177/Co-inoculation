@@ -1,0 +1,9 @@
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 999
+
+Response: Distances
+          Df  Sum Sq  Mean Sq      F N.Perm Pr(>F)
+Groups     2 0.04641 0.023207 2.2938    999   0.11
+Residuals 69 0.69810 0.010117                     

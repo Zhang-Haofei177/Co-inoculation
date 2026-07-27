@@ -1,0 +1,19 @@
+"Group","Niche","Site","Treatment","component","percentage"
+"H.T.T1","Topsoil","Heyang","AMF","粉黏粒 (≤52 μm)",54.51
+"H.T.T1","Topsoil","Heyang","AMF","微团聚体 (52-250 μm)",10.6675
+"H.T.T1","Topsoil","Heyang","AMF","大团聚体 (≥250 μm)",34.8225
+"H.T.T2","Topsoil","Heyang","Str","粉黏粒 (≤52 μm)",54.5175
+"H.T.T2","Topsoil","Heyang","Str","微团聚体 (52-250 μm)",6.2475
+"H.T.T2","Topsoil","Heyang","Str","大团聚体 (≥250 μm)",39.235
+"H.T.T6","Topsoil","Heyang","AMF+Str","粉黏粒 (≤52 μm)",52.3125
+"H.T.T6","Topsoil","Heyang","AMF+Str","微团聚体 (52-250 μm)",8.42
+"H.T.T6","Topsoil","Heyang","AMF+Str","大团聚体 (≥250 μm)",39.2675
+"T.T.T1","Topsoil","Yvci","AMF","粉黏粒 (≤52 μm)",65.65
+"T.T.T1","Topsoil","Yvci","AMF","微团聚体 (52-250 μm)",16.2675
+"T.T.T1","Topsoil","Yvci","AMF","大团聚体 (≥250 μm)",18.0825
+"T.T.T2","Topsoil","Yvci","Str","粉黏粒 (≤52 μm)",63.375
+"T.T.T2","Topsoil","Yvci","Str","微团聚体 (52-250 μm)",23.3825
+"T.T.T2","Topsoil","Yvci","Str","大团聚体 (≥250 μm)",13.2425
+"T.T.T6","Topsoil","Yvci","AMF+Str","粉黏粒 (≤52 μm)",40.0675
+"T.T.T6","Topsoil","Yvci","AMF+Str","微团聚体 (52-250 μm)",13
+"T.T.T6","Topsoil","Yvci","AMF+Str","大团聚体 (≥250 μm)",46.9325
