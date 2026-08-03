@@ -10,8 +10,8 @@ dir.create(out_root, showWarnings = FALSE, recursive = TRUE)
 setwd(out_root)
 
 # ---------- 1. Read data ----------
-df <- read.csv("data/soil_enzyme_aggregate_summary.csv", header = TRUE, row.names = 1)
-df <- df[grepl("T1|T2|T6", rownames(df)), c(1:4, 17:19)]
+df <- read.csv("data/soil_properties_topsoil.csv", header = TRUE, row.names = 1)
+df <- df[grepl("T1|T2|T6", rownames(df)), c(2:5, 18:20)]
 df <- df[grepl("Topsoil", df$Niche), ]
 df$Site <- factor(df$Site, levels = c("HY", "YC"), labels = c("Heyang", "Yvci"))
 
@@ -56,7 +56,7 @@ p <- ggplot(df_summary, aes(x = Treatment, y = percentage, fill = component)) +
         legend.text = element_text(size = 6),
         strip.text = element_text(size = 6),
         strip.background = element_rect(fill = "white"))
-
+p
 ggsave(file.path(out_root, "Fig.1C_soil_aggregate.pdf"), p, width = 50, height = 40, units = "mm")
 ggsave(file.path(out_root, "Fig.1C_soil_aggregate.png"), p, width = 50, height = 40, units = "mm", dpi = 300)
 write.csv(df_summary, file.path(out_root, "Fig.1C_aggregate_data.csv"), row.names = FALSE)

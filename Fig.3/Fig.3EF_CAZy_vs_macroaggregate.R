@@ -15,7 +15,7 @@ setwd(script_dir)
 # ---------- 1. Load data ----------
 family_abund <- readRDS(file.path(out_root, "data/family_abund.rds"))
 
-soil <- read.csv(file.path(out_root, "data/soil_enzyme_aggregate_summary.csv"), row.names = 1)
+soil <- read.csv(file.path(out_root, "data/soil_properties_topsoil.csv"), row.names = 1)
 
 group <- read.csv(file.path(out_root, "data/group.csv"), row.names = 1)
 group$Treatment <- factor(group$Treatment, levels = c("Ctrl", "AMF", "Str", "AMF+Str"))

@@ -145,7 +145,8 @@ plot_radar_overlay <- function(site_name) {
 p_hy <- plot_radar_overlay("HY")
 p_yc <- plot_radar_overlay("YC")
 combined <- p_hy + p_yc + plot_annotation(tag_levels = NULL)
-
+combined
 ggsave(file.path(out_root, "Fig.1B_Soil_radar.pdf"), combined, width = 80, height = 50, units = "mm")
 ggsave(file.path(out_root, "Fig.1B_Soil_radar.png"), combined, width = 80, height = 50, units = "mm", dpi = 300)
 cat("Fig.1B_Soil saved\n")
+
