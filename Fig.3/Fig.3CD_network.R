@@ -612,6 +612,8 @@ cat("  Hub analysis figures saved\n")
 # Microbial phylum-level color legend
 # ============================================================================
 df_legend <- data.frame(Phylum = names(phy_colors), Color = unlist(phy_colors))
+# 将Phylum转换为因子，级别按phy_colors的顺序
+df_legend$Phylum <- factor(df_legend$Phylum, levels = names(phy_colors))
 
 p_legend <- ggplot(df_legend, aes(x = 1, y = rev(seq_len(nrow(df_legend))), fill = Phylum)) +
   geom_tile(show.legend = TRUE) +
@@ -619,8 +621,9 @@ p_legend <- ggplot(df_legend, aes(x = 1, y = rev(seq_len(nrow(df_legend))), fill
   theme_void() +
   theme(legend.title = element_text(size = 12, face = "bold"),
         legend.text = element_text(size = 10, face = "plain"),
-        legend.key.size = unit(0.6, "cm")) +
-  guides(fill = guide_legend(title = "Phylum", ncol = 1))
+        legend.key.size = unit(0.6, "cm"),
+        legend.position = "bottom") +
+  guides(fill = guide_legend(title = "Phylum", ncol = 8))
 
 legend_only <- get_legend(p_legend)
 
@@ -634,3 +637,50 @@ dev.off()
 
 cat("\n========== Analysis Complete ==========\n")
 cat("Output files saved to:", script_dir, "\n")
+# ============================================================================
+# 计算指定酶家族所连接属中 Pseudomonadota 的比例（用于 Fig.3G 和 3H）
+# ============================================================================
+
+calc_phylum_prop <- function(edges_df, family_list, genus_phylum_map, phylum_name = "Pseudomonadota") {
+  result <- data.frame()
+  for (fam in family_list) {
+    # 获取与该家族相连的所有属（去重）
+    gen <- edges_df %>% filter(Family == fam) %>% pull(Genus) %>% unique()
+    if (length(gen) == 0) {
+      prop <- NA
+      count_pseudo <- 0
+      total <- 0
+    } else {
+      # 匹配门信息
+      phyla <- genus_phylum_map %>% filter(Genus_node %in% gen) %>% pull(Phylum)
+      phyla[is.na(phyla)] <- "Unclassified"
+      total <- length(phyla)
+      count_pseudo <- sum(phyla == phylum_name, na.rm = TRUE)
+      prop <- count_pseudo / total
+    }
+    result <- rbind(result, data.frame(
+      Site = ifelse(deparse(substitute(edges_df)) == "hy_edges", "HY", "YC"),
+      Family = fam,
+      Total_Genera = length(gen),
+      Pseudomonadota_Count = count_pseudo,
+      Proportion = prop
+    ))
+  }
+  return(result)
+}
+
+# Fig.3G: HY 站点，GH13 和 GH94
+hy_props <- calc_phylum_prop(hy_edges, c("GH13", "GH94"), genus_to_phylum)
+cat("\n========== Fig.3G (HY) — GH13 / GH94 中 Pseudomonadota 比例 ==========\n")
+print(hy_props)
+
+# Fig.3H: YC 站点，GT2 和 GT4
+yc_props <- calc_phylum_prop(yc_edges, c("GT2", "GT4"), genus_to_phylum)
+cat("\n========== Fig.3H (YC) — GT2 / GT4 中 Pseudomonadota 比例 ==========\n")
+print(yc_props)
+
+# 可选：将结果保存为 CSV
+write.csv(rbind(hy_props, yc_props), 
+          file.path(script_dir, "Pseudomonadota_proportion_in_hub_families.csv"), 
+          row.names = FALSE)
+
